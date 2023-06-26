@@ -1,5 +1,9 @@
 <strings>
 
+    <!-- app -->
     <string id="app_name">Energy saves</string>
+
+    <!-- view -->
+    <string id="lbl_title">WORK SAVED</string>
 
 </strings>
